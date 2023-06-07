@@ -1,6 +1,5 @@
 # GPT
 
-# GPT2
 ## Task
 Assignment: Web Scraping and AI Model Training
 Objective: Scrape data from the top 50 hospitals' websites and train a Private GPT model(available on Github) on this data.
