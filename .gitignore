@@ -1,0 +1,6 @@
+crap/
+wandb/
+cached_lm_GPT2Tokenizer_128_test_dataset.txt
+cached_lm_GPT2Tokenizer_128_train_dataset.txt
+Assignment.docx
+gpt2-finetuned/pytorch_model.bin
